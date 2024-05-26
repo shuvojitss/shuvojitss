@@ -1,7 +1,7 @@
 ![logo](https://github.com/shuvojitss/shuvojitss/blob/main/shuvojit%20(1).png)
 <h1 align="center">Hi 👋, I'm Shuvojit Samanta</h1>
 <h3 align="center">A 2nd year Computer Science Student</h3>
-
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2FJBK0&psig=AOvVaw3FM8Hg2F5OaGl6NhvEL-MN&ust=1716802164909000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOCAt8uAq4YDFQAAAAAdAAAAABAR">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shuvojitss&label=Profile%20views&color=0e75b6&style=flat" alt="shuvojitss" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shuvojitss" alt="shuvojitss" /></a> </p>
