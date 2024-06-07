@@ -9,6 +9,7 @@
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
 </div>
+<img src="https://raw.githubusercontent.com/shuvojitss/shuvojitss/output/snake.svg" alt="Snake animation" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shuvojitss&label=Profile%20views&color=0e75b6&style=flat" alt="shuvojitss" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shuvojitss" alt="shuvojitss" /></a> </p>
