@@ -40,4 +40,4 @@
   <img src="https://streak-stats.demolab.com?user=shuvojitss&locale=en&mode=weekly&theme=gruvbox&hide_border=false&border_radius=7&order=3" height="220" alt="streak graph"  />
   
 </div>
-[![An image of @shuvojitsamanta's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shuvojitsamanta)](https://holopin.io/@shuvojitsamanta)
+![An image of @shuvojitsamanta's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shuvojitsamanta)](https://holopin.io/@shuvojitsamanta)
