@@ -48,8 +48,10 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="105px" height="105px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a>
+</div
+<div>
+<img src="https://github.com/shuvojitss/shuvojitss/blob/main/GSSoC24_Stats%20(1).png" alt="GSSoC24 Stats">
 </div>
-
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shuvojitss&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=ocean_dark&hide_border=false&order=5" height="150" alt="languages graph"  />
 </div>
