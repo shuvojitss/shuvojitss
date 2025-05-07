@@ -57,10 +57,7 @@
 <img src="https://github.com/shuvojitss/shuvojitss/blob/main/GSSoC24_Stats%20(1).png" alt="GSSoC24 Stats">
 </div>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shuvojitss&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=ocean_dark&hide_border=false&order=5" height="150" alt="languages graph"  />
-</div>
-<div align="center">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shuvojitss&show_icons=true&locale=en&layout=compact&bg_color=0,000000,130F40&text_color=D3D3D3" alt="mdazfar2" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shuvojitss&show_icons=true&locale=en&layout=compact&bg_color=0,000000,130F40&text_color=D3D3D3" alt="shuvojitss" /></p>
   <img src="https://streak-stats.demolab.com?user=shuvojitss&locale=en&mode=weekly&theme=gruvbox&hide_border=false&border_radius=7&order=3" height="220" alt="streak graph"  />
  
 </div>
