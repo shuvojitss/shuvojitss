@@ -60,3 +60,10 @@
   <img src="https://streak-stats.demolab.com?user=shuvojitss&locale=en&mode=weekly&theme=gruvbox&hide_border=false&border_radius=7&order=3" height="220" alt="streak graph"  />
  
 </div>
+<table width="100%" align="center">
+<tr>
+<td>
+  <img width="600em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mastansayyad&theme=radical" alt="Profile Summary">
+</td>
+</tr>
+</table>
