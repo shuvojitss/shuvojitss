@@ -58,7 +58,6 @@
 </div>
 <div align="center">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shuvojitss&show_icons=true&locale=en&layout=compact&bg_color=0,000000,130F40&text_color=D3D3D3" alt="shuvojitss" /></p>
-  <img src="https://streak-stats.demolab.com?user=shuvojitss&locale=en&mode=weekly&theme=gruvbox&hide_border=false&border_radius=7&order=3" height="220" alt="streak graph"  />
  <img height="169em" src="https://github-readme-stats.vercel.app/api?username=shuvojitss&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
 <img height="169em" src="https://github-readme-streak-stats.herokuapp.com?user=Asymtode712&theme=radical">
 </div>
