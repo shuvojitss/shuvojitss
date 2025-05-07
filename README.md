@@ -63,7 +63,7 @@
 <img src="https://github.com/shuvojitss/shuvojitss/blob/main/GSSoC24_Stats%20(1).png" alt="GSSoC24 Stats">
 </div>
 <div align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shuvojitss&show_icons=true&locale=en&layout=compact&bg_color=0,000000,130F40&text_color=D3D3D3" alt="shuvojitss" /></p>
+<p><img align="center" height="169em" src="https://github-readme-stats.vercel.app/api/top-langs?username=shuvojitss&show_icons=true&locale=en&layout=compact&bg_color=0,000000,130F40&text_color=D3D3D3" alt="shuvojitss" /></p>
  <img height="169em" src="https://github-readme-stats.vercel.app/api?username=shuvojitss&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
 <img height="169em" src="https://github-readme-streak-stats.herokuapp.com?user=Asymtode712&theme=radical">
 </div>
