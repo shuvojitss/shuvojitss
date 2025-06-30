@@ -22,7 +22,7 @@
 
 - 🌱 I’m currently learning **Javascript and AI frameworks**
 
-- 📫 How to reach me **codewithshuvojit2004@gmail.com**
+- 📫 How to reach me **shuvojitsamanta@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
