@@ -1,6 +1,6 @@
 ![logo](https://github.com/shuvojitss/shuvojitss/blob/main/shuvojit%20(1).png)
 <h1 align="center">Hi 👋, I'm Shuvojit Samanta</h1>
-<h3 align="center">A 3rd year Computer Science Student</h3>
+<h3 align="center">A 4th year Computer Science Student</h3>
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
