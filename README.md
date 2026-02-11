@@ -1,4 +1,4 @@
-![logo](https://github.com/shuvojitss/shuvojitss/blob/main/github image.png)
+![logo](https://github.com/shuvojitss/shuvojitss/blob/main/githubimage.png)
 <h1 align="center">Hi 👋, I'm Shuvojit Samanta</h1>
 <h3 align="center">A 4th year Computer Science Student</h3>
 
